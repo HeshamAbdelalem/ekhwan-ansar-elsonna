@@ -33,7 +33,7 @@ a {
 }
 
 p {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   padding: 20px 0px;
 }
 
@@ -56,6 +56,11 @@ figure {
   font-size: 1.1rem;
   color: #b8833f;
   padding: 0;
+}
+
+h2 {
+  color: darkslategrey;
+  text-decoration: underline;
 }
 
 /* *Main Styles - End */
@@ -129,5 +134,11 @@ nav ul li a:hover {
   }
   nav ul li {
     padding: 10px;
+  }
+  p {
+    font-size: 1.2rem;
+  }
+  .container {
+    padding: 0 0.5rem;
   }
 }
