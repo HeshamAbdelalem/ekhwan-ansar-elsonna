@@ -141,4 +141,8 @@ nav ul li a:hover {
   .container {
     padding: 0 0.5rem;
   }
+  nav h1 {
+    padding: 1rem 0rem;
+    font-size: 1.8rem;
+  }
 }
